@@ -1,3 +1,5 @@
+
+
 import { useEffect, useState } from "react";
 
 // take in the url
@@ -23,3 +25,4 @@ function useQuery(url) {
 }
 
 export default useQuery;
+
